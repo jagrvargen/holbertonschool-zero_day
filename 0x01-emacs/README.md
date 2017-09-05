@@ -1,0 +1,1 @@
+This project is a study of the basic commands in the popular text-editor, Emacs.
