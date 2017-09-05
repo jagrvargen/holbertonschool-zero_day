@@ -1,0 +1,1 @@
+This is an assignment dedicated to learning some basic Emacs commands.
